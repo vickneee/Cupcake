@@ -12,5 +12,4 @@ fun <A : ComponentActivity> AndroidComposeTestRule<ActivityScenarioRule<A>, A>.o
 ): SemanticsNodeInteraction = onNodeWithText(activity.getString(id))
 
 // composeTestRule.onNodeWithText(composeTestRule.activity.getString(R.string.my_string)
-
 // composeTestRule.onNodeWithStringId(R.string.my_string)
