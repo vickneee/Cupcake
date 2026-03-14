@@ -27,6 +27,12 @@ send the order.
 <img src="./res/Screenshot_20260314_152938.png" width="35%" alt="Android Mobile App Screen - Cupcake Navigations screen"/>
 </p>
 
+### Share Order to Another App
+
+<p align="center">
+<img src="./res/Screenshot_20260314_161655.png" width="35%" alt="Android Mobile App Screen - Cupcake Navigations screen"/>
+</p>
+
 
 Pre-requisites
 --------------
