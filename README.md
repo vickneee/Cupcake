@@ -11,6 +11,16 @@ send the order.
 <img src="./res/Screenshot_20260314_020523.png" width="35%" alt="Android Mobile App Screen - Navigations screen"/>
 </p>
 
+### NavHostController 
+
+<p align="center">
+<img src="./res/Screenshot_20260314_150831.png" width="35%" alt="Android Mobile App Screen - Cupcake Navigations screen"/> <img src="./res/Screenshot_20260314_150842.png" width="35%" alt="Android Mobile App Screen - Cupcake Navigations screen"/>
+</p>
+
+<p align="center">
+<img src="./res/Screenshot_20260314_150903.png" width="35%" alt="Android Mobile App Screen - Cupcake Navigations screen"/> <img src="./res/Screenshot_20260314_150910.png" width="35%" alt="Android Mobile App Screen - Cupcake Navigations screen"/>
+</p>
+
 
 Pre-requisites
 --------------
